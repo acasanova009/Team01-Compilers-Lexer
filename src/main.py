@@ -2,7 +2,7 @@
 # González Arredondo Rafael
 # González Casanova Gallegos Renato Alfonso
 # Juárez Herrera Erick Adrián
-# Pineda Galino Ricardo Angel
+# Pineda Galindo Ricardo Angel
 # Sánchez Durán Danae
 
 # Import of the library "ply", module "lexer"
